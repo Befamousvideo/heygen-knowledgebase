@@ -56,6 +56,51 @@ We believe every company deserves its first “AI employee,” and we make that 
 ### 🏁 Mission Statement
 > To empower businesses and individuals through intelligent automation, voice agents, and data-driven systems — freeing human creativity for what truly matters.
 
+## 🧭 Customer Service & Onboarding Resources
+
+### 🚀 Getting Started
+If you’re new to **StorenTech AI Automation Agency**, this section helps you get up and running quickly.  
+We provide full onboarding for businesses integrating **custom AI agents**, **RPA workflows**, and **AI-driven content automation**.
+
+---
+
+### 🧩 Troubleshooting Steps
+If your AI agent or automation workflow isn’t performing as expected, try the following:
+
+1. **Restart the Automation** – Check for pending updates or restarts within your workspace.
+2. **Verify Integrations** – Ensure your CRM, chat, or scheduling systems are properly linked.
+3. **Check Credentials** – Make sure your API keys, access tokens, or logins are valid.
+4. **Review Training Data** – Revisit the knowledge or data used to train the AI for accuracy and tone.
+5. **Reach Out for Support** – If issues persist, contact the StorenTech AI team for help.
+
+---
+
+### 📞 Support & Contact
+- 🌐 **Website:** [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)  
+- 📧 **Email:** [support@StorenTech.com](mailto:support@StorenTech.com)  
+- ☎️ **Phone:** +1 (714) 794-9199  
+
+Typical response time: **within 24 hours on business days.**
+
+---
+
+### ⚙️ Service Tiers Overview
+StorenTech AI provides multiple service categories designed to fit the needs of small and medium-sized businesses:
+
+| **Tier / Category** | **Description** |
+|----------------------|-----------------|
+| **AI Agents** | Voice and text-based AI agents trained on your company data to handle support, scheduling, and sales. |
+| **RPA (Robotic Process Automation)** | Automates repetitive business tasks such as form processing, reporting, and data transfers. |
+| **Content Creation** | AI-powered writing, SEO optimization, social media content, and video production services. |
+| **Voice / Chat Systems** | Custom voice or chat assistants that communicate naturally and integrate with your systems. |
+
+---
+
+### 💡 Need Help Getting Started?
+If you’re ready to deploy your **first AI employee** or want to identify where automation adds the most value —  
+👉 **[Contact us today](https://StorenTechAI.com/contact)** and we’ll help design the right solution for your goals.
+
+
 ---
 
 © 2025 StorenTech AI Automation Agency. All rights reserved.
