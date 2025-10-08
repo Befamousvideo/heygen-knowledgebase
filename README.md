@@ -100,6 +100,11 @@ StorenTech AI provides multiple service categories designed to fit the needs of 
 If you’re ready to deploy your **first AI employee** or want to identify where automation adds the most value —  
 👉 **[Contact us today](https://StorenTechAI.com/contact)** and we’ll help design the right solution for your goals.
 
+## 🧠 AI Project Planning Resources
+- Learn how to scope automation projects with StorenTech AI.
+- Review examples of past use cases: chatbots, voice agents, and RPA systems.
+- Schedule your free discovery consultation: [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)
+- Contact: [support@StorenTech.com](mailto:support@StorenTech.com)
 
 ---
 
