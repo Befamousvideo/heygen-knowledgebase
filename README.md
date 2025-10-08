@@ -112,6 +112,12 @@ If you’re ready to deploy your **first AI employee** or want to identify where
 - Start your free marketing audit: [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)
 - Contact: [support@StorenTech.com](mailto:support@StorenTech.com)
 
+## 🎓 AI Training & Operations Resources
+- Learn how to use and optimize your AI automations.
+- Access onboarding videos, setup guides, and retraining tools.
+- Request team training or workflow optimization at [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)
+- Email: [support@StorenTech.com](mailto:support@StorenTech.com)
+
 ---
 
 © 2025 StorenTech AI Automation Agency. All rights reserved.
