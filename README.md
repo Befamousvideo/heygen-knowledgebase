@@ -106,6 +106,12 @@ If you’re ready to deploy your **first AI employee** or want to identify where
 - Schedule your free discovery consultation: [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)
 - Contact: [support@StorenTech.com](mailto:support@StorenTech.com)
 
+## 🚀 AI Marketing Resources
+- Learn how StorenTech AI automates content, social, and ad campaigns.
+- Explore real-world use cases: AI writing, predictive analytics, and voice-powered video marketing.
+- Start your free marketing audit: [https://StorenTechAI.com/contact](https://StorenTechAI.com/contact)
+- Contact: [support@StorenTech.com](mailto:support@StorenTech.com)
+
 ---
 
 © 2025 StorenTech AI Automation Agency. All rights reserved.
